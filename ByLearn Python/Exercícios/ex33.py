@@ -1,0 +1,5 @@
+tupla=((1,2,3),(4,5,6,),('sunset','moonset'))
+print(tupla[0])
+print(tupla[2][1][:4])
+print(tupla[1][2])
+print(tupla[2][0][:3])

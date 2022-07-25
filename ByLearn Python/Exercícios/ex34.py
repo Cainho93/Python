@@ -1,0 +1,5 @@
+conj=set()
+conj.add(frozenset((1,2)))
+conj.add(frozenset([3.4,5.6]))
+conj.add(frozenset({'Caio'}))
+print(conj)

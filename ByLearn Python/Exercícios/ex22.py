@@ -1,0 +1,6 @@
+tupla = (1,2,3,4,5)
+tupla = list(tupla)
+tupla.insert(0,0)
+tupla.append(6)
+tupla.remove(3)
+print(tupla)
