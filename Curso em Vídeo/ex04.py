@@ -1,0 +1,6 @@
+valor=input('Digite uma palavra: ')
+print('A classe desse valor é',type(valor))
+print('Só tem espaços? ',valor.isspace())
+print('É um número? ',valor.isnumeric())
+print('É alfabético?',valor.isalpha())
+print('É alfanumérico?',valor.isalnum())
